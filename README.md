@@ -14,3 +14,7 @@
 <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final/" target="_blank">
 <img src="./english-excellent.png" alt="English Excellent" width="200"/>
 </a>
+
+<a href="https://pavlorohozhyn.github.io/goit-markup-hw-final/" target="_blank">
+<img src="./english-excellent.png" alt="English Excellent" width="200"/>
+</a>
