@@ -12,18 +12,18 @@
 
 ## Projects
 <!-- Contacts Bot -->
-<a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank">
-  <img src="./contacts-bot.png" alt="Contacts Bot" width="400"/>
+<a href="https://github.com/PavloRohozhyn/goit-pycore-final" target="_blank">
+  <kbd><img src="./contacts-bot.png" alt="Contacts Bot" width="200" height="130" /></kbd>
 </a>
-<!-- Images Gallery -->
+<!-- Images Gallery -->&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank">
-  <img src="./images-gallery.png" alt="Images Gallery" width="400"/>
+  <kbd><img src="./images-gallery.png" alt="Images Gallery" width="200" height="130" />
 </a>
-<!-- English Excellent -->
+<!-- English Excellent -->&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final/" target="_blank">
-  <img src="./english-excellent.png" alt="English Excellent" width="400"/>
+  <kbd><img src="./english-excellent.png" alt="English Excellent" width="200" height="130" />
 </a>
-<!-- Your Energy -->
+<!-- Your Energy -->&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pavlorohozhyn.github.io/your-energy/" target="_blank">
-  <img src="./your-energy.png" alt="Your Energy" width="400"/>
+  <kbd><img src="./your-energy.png" alt="Your Energy" width="200" height="130" />
 </a>
