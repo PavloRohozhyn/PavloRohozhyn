@@ -12,7 +12,7 @@
 
 ## Projects
 <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank">
-<img src="./image+gallery.png" alt="Images Gallery" width="400"/>
+<img src="./images-gallery.png" alt="Images Gallery" width="400"/>
 </a>
 
 <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final/" target="_blank">
