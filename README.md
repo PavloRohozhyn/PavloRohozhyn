@@ -13,3 +13,5 @@
 ## Projects
 
 ![english-excellent](./english-excellent.png) 
+<img src="./english-excellent.png" alt="English Excellent" width="200"/>
+
