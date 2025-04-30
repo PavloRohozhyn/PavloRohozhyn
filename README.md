@@ -19,6 +19,6 @@
 <img src="./english-excellent.png" alt="English Excellent" width="400"/>
 </a>
 
-<a href="https://pavlorohozhyn.github.io/goit-markup-hw-final/" target="_blank">
+<a href="https://pavlorohozhyn.github.io/your-energy/" target="_blank">
 <img src="./your-energy.png" alt="Your Energy" width="400"/>
 </a>
