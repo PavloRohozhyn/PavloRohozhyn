@@ -10,12 +10,21 @@ This is my University GitHab
 
 `Python` `Colorama`
 
+### :film_projector: Web Studio
+> Web Application
+> <img src="./english-excellent.png" width="200" height="130" align="right"/>
+
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
+- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
+
+`HTML5` `CSS3` `JavaScript` `Vite`
+
 ### :film_projector: Images Gallery 
 > Web Application
 > <img src="./images-gallery.png"  width="200" height="130" align="right"/>
 
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
-- Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)
+- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-js-hw-08/)
 
 `HTML5` `CSS3` `JavaScript`
 
@@ -23,8 +32,9 @@ This is my University GitHab
 > Web Application
 > <img src="./english-excellent.png" width="200" height="130" align="right"/>
 
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
-- Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
+- Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
+- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/your-energy/)
 
 `HTML5` `CSS3` `JavaScript` `Vite`
 
@@ -32,7 +42,9 @@ This is my University GitHab
 > Web Application
 > <img src="./your-energy.png" width="200" height="130" align="right"/>
 
-Elements in beautiful READMEs include, but are not limited to:
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
+- Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
+- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/your-energy/)
 
 `HTML5` `CSS3` `JavaScript` `Vite`
 
