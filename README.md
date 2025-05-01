@@ -1,6 +1,14 @@
 # Hi there 👋
 This is my University GitHab
 
+### :film_projector: Decision-Making Methods
+> Console Application
+> <img src="./math.png" width="200" height="130" align="right"/>
+
+- Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
+
+`Python` `Colab` `Numpy` `Pandas` `Seaborn` `Matplotlib` `LinearRegression` `RandomForestRegressor`
+
 ### :film_projector: Contact and Note Management Console Bot
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
