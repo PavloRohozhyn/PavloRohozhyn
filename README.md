@@ -51,7 +51,7 @@ This is my University GitHab
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
 - Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
-- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/your-energy/)
+- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-markup-hw-final)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
