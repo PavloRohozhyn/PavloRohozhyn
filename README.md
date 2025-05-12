@@ -24,7 +24,7 @@ This is my University GitHab
 
 ### :film_projector: Web Studio
 > Web Application
-> <img src="./web-studio.png" width="200" height="130" align="right"/>
+> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
 - Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
@@ -36,7 +36,7 @@ This is my University GitHab
 
 ### :film_projector: Images Gallery 
 > Web Application
-> <img src="./images-gallery.png"  width="200" height="130" align="right"/>
+> <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)
 - Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-js-hw-08/)
@@ -60,7 +60,7 @@ This is my University GitHab
 
 ### :film_projector: Your Energy 
 > Web Application
-> <img src="./your-energy.png" width="200" height="130" align="right"/>
+> <a href="https://pavlorohozhyn.github.io/your-energy/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
 - Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
