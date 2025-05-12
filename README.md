@@ -60,11 +60,11 @@ This is my University GitHub
 
 ### :film_projector: Your Energy 
 > Web Application
-> <a href="https://pavlorohozhyn.github.io/your-energy/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
+> <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
 - Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
-- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/your-energy/)
+- Live Demo [GitHub Repo](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
