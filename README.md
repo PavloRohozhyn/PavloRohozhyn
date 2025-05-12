@@ -47,7 +47,7 @@ This is my University GitHab
 
 ### :film_projector: English Excellent
 > Web Application
-> <img src="./english-excellent.png" width="200" height="130" align="right"/>
+> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
 - Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
