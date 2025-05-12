@@ -1,5 +1,5 @@
 # Hi there 👋
-This is my University GitHab
+This is my University GitHub
 
 ### :film_projector: Decision-Making Methods
 > Console Application
