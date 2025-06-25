@@ -7,11 +7,11 @@ This is my University GitHub
 
 - Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg)
 
 ### :film_projector: Contact and Note Management Console Bot
 > Console Application
@@ -20,7 +20,7 @@ This is my University GitHub
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
 - Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0)
 
 ### :film_projector: Web Studio
 > Web Application
@@ -29,10 +29,10 @@ This is my University GitHub
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
 - Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### :film_projector: Images Gallery 
 > Web Application
@@ -41,9 +41,9 @@ This is my University GitHub
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)
 - Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
 
 ### :film_projector: English Excellent
 > Web Application
@@ -53,10 +53,10 @@ This is my University GitHub
 - Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
 - Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### :film_projector: Your Energy 
 > Web Application
@@ -66,10 +66,10 @@ This is my University GitHub
 - Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
 - Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 
 ### :film_projector: TravelTrucks
@@ -79,10 +79,10 @@ This is my University GitHub
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
 - Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![React](https://img.shields.io/badge/react-%2320232a.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ___
 <div align="center">
