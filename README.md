@@ -27,7 +27,7 @@ This is my University GitHub
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
-- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
+- Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@ This is my University GitHub
 > <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)
-- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-js-hw-08/)
+- Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +51,7 @@ This is my University GitHub
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
 - Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
-- Live Demo [GitHub Repo](https://pavlorohozhyn.github.io/goit-markup-hw-final)
+- Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,7 +64,7 @@ This is my University GitHub
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
 - Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
-- Live Demo [GitHub Repo](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
+- Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,12 +72,12 @@ This is my University GitHub
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
-### :film_projector: TravelTrucks 
+### :film_projector:  
 > Web Application
-> <a href="https://travel-trucks-three-wheat.vercel.app/catalog" target="_blank"><img src="./travel-trucks.png" width="200" height="130" align="right"/></a>
+> <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
-- Live Demo [GitHub Repo](https://travel-trucks-three-wheat.vercel.app/catalog)
+- Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
