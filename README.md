@@ -1,7 +1,7 @@
 # Hi there 👋
 This is my University GitHub
 
-### :film_projector: Decision-Making Methods
+### &#x1F578; Decision-Making Methods
 > Console Application
 > <img src="./math.png" width="200" height="130" align="right"/>
 
@@ -13,7 +13,7 @@ This is my University GitHub
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg)
 
-### :film_projector: Contact and Note Management Console Bot
+### &#x1F578; Contact and Note Management Console Bot
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
@@ -22,7 +22,7 @@ This is my University GitHub
 
 ![Python](https://img.shields.io/badge/python-3670A0)
 
-### :film_projector: Web Studio
+### &#x1F578; Web Studio
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
@@ -45,7 +45,7 @@ This is my University GitHub
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
 
-### :film_projector: English Excellent
+### &#x1F578; English Excellent
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
 
@@ -58,7 +58,7 @@ This is my University GitHub
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
-### :film_projector: Your Energy 
+### &#x1F578; Your Energy 
 > Web Application
 > <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
@@ -72,7 +72,7 @@ This is my University GitHub
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 
-### :film_projector: TravelTrucks
+### &#x1F578; TravelTrucks
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
