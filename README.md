@@ -2,7 +2,7 @@
 This is my University GitHub
 
 ### &#x1F578; Decision-Making Methods
-> Console Application
+> Colab Project
 > <img src="./math.png" width="200" height="130" align="right"/>
 
 - Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
