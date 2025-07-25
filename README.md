@@ -3,14 +3,7 @@ This is my University GitHub
 
 
 
-### &#x1F578; Contact and Note Management Console Bot
-> Console Application
-> <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
-- Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
-
-![Python](https://img.shields.io/badge/python-3670A0)
 
 ### &#x1F578; Web Studio
 > Web Application
@@ -75,6 +68,15 @@ This is my University GitHub
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### 123
+
+### &#x1F578; Contact and Note Management Console Bot
+> Console Application
+> <img src="./contacts-bot.png" width="200" height="130" align="right"/>
+
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
+- Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
+
+![Python](https://img.shields.io/badge/python-3670A0)
 
 ### &#x1F578; Decision-Making Methods
 > Colab Project
