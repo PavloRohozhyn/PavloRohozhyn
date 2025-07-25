@@ -1,17 +1,7 @@
 # Hi there 👋
 This is my University GitHub
 
-### &#x1F578; Decision-Making Methods
-> Colab Project
-> <img src="./math.png" width="200" height="130" align="right"/>
 
-- Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
-
-![Python](https://img.shields.io/badge/python-3670A0)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg)
 
 ### &#x1F578; Contact and Note Management Console Bot
 > Console Application
@@ -83,6 +73,20 @@ This is my University GitHub
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
 ![React](https://img.shields.io/badge/react-%2320232a.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+
+### 123
+
+### &#x1F578; Decision-Making Methods
+> Colab Project
+> <img src="./math.png" width="200" height="130" align="right"/>
+
+- Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
+
+![Python](https://img.shields.io/badge/python-3670A0)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg)
 
 ___
 <div align="center">
