@@ -1,16 +1,38 @@
 # Hi there 👋
 This is my University GitHub
 
-
-
-
-
-### &#x1F578; Web Studio
+### &#x1F578; TravelTrucks
 > Web Application
-> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
+> <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
-- Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
+- Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![React](https://img.shields.io/badge/react-%2320232a.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+
+### &#x1F578; Your Energy 
+> Web Application
+> <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
+
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
+- Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
+- Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+
+### &#x1F578; English Excellent
+> Web Application
+> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
+
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
+- Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
+- Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
@@ -28,46 +50,17 @@ This is my University GitHub
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
 
-### &#x1F578; English Excellent
+### &#x1F578; Web Studio
 > Web Application
-> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
+> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
-- Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
-- Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
+- Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
-
-### &#x1F578; Your Energy 
-> Web Application
-> <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
-
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
-- Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
-- Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
-
-
-### &#x1F578; TravelTrucks
-> Web Application
-> <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
-
-- Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
-- Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![React](https://img.shields.io/badge/react-%2320232a.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
-
-### 123
 
 ### &#x1F578; Contact and Note Management Console Bot
 > Console Application
