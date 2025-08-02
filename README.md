@@ -62,7 +62,7 @@ This is my University GitHub
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
-### &#x1F578; Contact and Note Management Console Bot
+### &#x1F578; Contact, Note Management Console Bot
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
