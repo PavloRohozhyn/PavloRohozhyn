@@ -1,7 +1,7 @@
 # Hi there 👋
 This is my University GitHub
 
-### &#x1F578; TravelTrucks
+### &#x1F578; Travel Trucks
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
