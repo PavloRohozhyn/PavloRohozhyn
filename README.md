@@ -1,5 +1,5 @@
 # Hi there 👋
-This is my University GitHub
+This is my University GitHub.
 
 ### &#x1F578; Travel Trucks
 > Web Application
