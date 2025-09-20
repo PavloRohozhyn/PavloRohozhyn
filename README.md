@@ -5,8 +5,8 @@ This is my University GitHub.
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
-:paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
+:paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
@@ -17,9 +17,9 @@ This is my University GitHub.
 > Web Application
 > <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
-:paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
-:paperclip: Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
+:paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)<br />
+:paperclip: Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
@@ -30,9 +30,9 @@ This is my University GitHub.
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
-:paperclip: Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
-:paperclip: Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
+:paperclip: Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)<br />
+:paperclip: Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
@@ -43,8 +43,8 @@ This is my University GitHub.
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)
-:paperclip: Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)<br />
+:paperclip: Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
@@ -54,8 +54,8 @@ This is my University GitHub.
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
-:paperclip: Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)<br />
+:paperclip: Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
@@ -66,8 +66,8 @@ This is my University GitHub.
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
-:paperclip: Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)<br />
+:paperclip: Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)<br />
 
 ![Python](https://img.shields.io/badge/python-3670A0)
 
@@ -75,7 +75,7 @@ This is my University GitHub.
 > Colab Project
 > <img src="./math.png" width="200" height="130" align="right"/>
 
-:paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
+:paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)<br />
 
 ![Python](https://img.shields.io/badge/python-3670A0)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg)
