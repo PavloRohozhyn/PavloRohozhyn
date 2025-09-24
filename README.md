@@ -4,7 +4,7 @@ This is my University GitHub.
 
 ### &#x1F578; Simple Words Trainer
 > Mobile App
-> <a href="https://vimeo.com/1121125212" target="_blank"><img src="./simple-word-trainer.png" width="200" height="130" align="right"/></a>
+> <a href="https://vimeo.com/1121125212" target="_blank"><img src="./simple-words-training.png" width="130" height="130" align="right"/></a>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/MobileApp)
 :paperclip: Live Demo [Simple Words Trainer](https://vimeo.com/1121125212)
