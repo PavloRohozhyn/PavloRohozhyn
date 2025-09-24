@@ -1,7 +1,3 @@
-# Hi there 👋
-This is my University GitHub.
-
-
 ### &#x1F578; Simple Words Trainer
 > Mobile App
 > <a href="https://vimeo.com/1121125212" target="_blank"><img src="./simple-words-training.png" width="130" height="130" align="right"/></a>
