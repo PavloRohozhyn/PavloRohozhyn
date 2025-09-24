@@ -10,6 +10,8 @@ This is my University GitHub.
 :paperclip: Live Demo [Simple Words Trainer](https://vimeo.com/1121125212)
 
 
+![React](https://img.shields.io/badge/react-%2320232a.svg)
+
 
 ### &#x1F578; Travel Trucks
 > Web Application
