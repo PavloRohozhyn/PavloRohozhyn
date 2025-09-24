@@ -1,6 +1,16 @@
 # Hi there 👋
 This is my University GitHub.
 
+
+### &#x1F578; Simple Words Trainer
+> Mobile App
+> <a href="https://vimeo.com/1121125212" target="_blank"><img src="./simple-word-trainer.png" width="200" height="130" align="right"/></a>
+
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/MobileApp)
+:paperclip: Live Demo [Simple Words Trainer](https://vimeo.com/1121125212)
+
+
+
 ### &#x1F578; Travel Trucks
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
