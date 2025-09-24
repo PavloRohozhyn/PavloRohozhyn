@@ -9,8 +9,10 @@ This is my University GitHub.
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/MobileApp)
 :paperclip: Live Demo [Simple Words Trainer](https://vimeo.com/1121125212)
 
-
-![React](https://img.shields.io/badge/react-%2320232a.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
+![TypeScript](https://img.shields.io/badge/typescript-%23077BD0.svg)
+![React](https://img.shields.io/badge/react-%235ED4F4.svg)
+![Android](https://img.shields.io/badge/android-%23A0C037.svg)
 
 
 ### &#x1F578; Travel Trucks
@@ -22,7 +24,7 @@ This is my University GitHub.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![React](https://img.shields.io/badge/react-%2320232a.svg)
+![React](https://img.shields.io/badge/react-%235ED4F4.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### &#x1F578; Your Energy 
@@ -35,7 +37,7 @@ This is my University GitHub.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### &#x1F578; English Excellent
@@ -48,7 +50,7 @@ This is my University GitHub.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### :film_projector: Images Gallery 
@@ -60,7 +62,7 @@ This is my University GitHub.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
 
 ### &#x1F578; Web Studio
 > Web Application
@@ -71,7 +73,7 @@ This is my University GitHub.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
 
 ### &#x1F578; Contact, Note Management Console Aplication
