@@ -2,13 +2,13 @@
 > Mobile App
 > <a href="https://vimeo.com/1121125212" target="_blank"><img src="./simple-words-training.png" width="130" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/MobileApp)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/MobileApp)<br />
 :paperclip: Live Demo [Simple Words Trainer](https://vimeo.com/1121125212)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
-![TypeScript](https://img.shields.io/badge/typescript-%23077BD0.svg)
-![React](https://img.shields.io/badge/react-%235ED4F4.svg)
-![Android](https://img.shields.io/badge/android-%23A0C037.svg)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Android](https://img.shields.io/badge/OS-Android-green)
 
 
 ### &#x1F578; Travel Trucks
