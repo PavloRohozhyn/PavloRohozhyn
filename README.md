@@ -18,7 +18,7 @@
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
 :paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
+![HTML5](https://img.shields.io/badge/Code-HTML5-red)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
 ![React](https://img.shields.io/badge/react-%235ED4F4.svg)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
