@@ -19,9 +19,9 @@
 :paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-red)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![React](https://img.shields.io/badge/react-%235ED4F4.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+![CSS3](https://img.shields.io/badge/Code-CSS-blue)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
 ### &#x1F578; Your Energy 
 > Web Application
@@ -31,10 +31,10 @@
 :paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
 :paperclip: Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+![HTML5](https://img.shields.io/badge/Code-HTML5-red)
+![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
 ### &#x1F578; English Excellent
 > Web Application
