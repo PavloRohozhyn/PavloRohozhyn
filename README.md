@@ -19,7 +19,7 @@ ___
 
 ### &#x1F578; Travel Trucks
 > Web Application
-> <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="300" height="130" align="right"/></a>
+> <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
 :paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
@@ -31,7 +31,7 @@ ___
 
 ### &#x1F578; Your Energy 
 > Web Application
-> <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="300" height="130" align="right"/></a>
+> <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
 :paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)<br />
@@ -44,7 +44,7 @@ ___
 
 ### &#x1F578; English Excellent
 > Web Application
-> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="300" height="130" align="right"/></a>
+> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
 :paperclip: Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)<br />
@@ -57,7 +57,7 @@ ___
 
 ### :film_projector: Images Gallery 
 > Web Application
-> <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="300" height="130" align="right"/></a>
+> <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)<br />
 :paperclip: Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
@@ -68,7 +68,7 @@ ___
 
 ### &#x1F578; Web Studio
 > Web Application
-> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="300" height="130" align="right"/></a>
+> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)<br />
 :paperclip: Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
@@ -80,7 +80,7 @@ ___
 
 ### &#x1F578; Contact, Note Management Console Aplication
 > Console Application
-> <img src="./contacts-bot.png" width="300" height="130" align="right"/>
+> <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)<br />
 :paperclip: Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
@@ -89,7 +89,7 @@ ___
 
 ### &#x1F578; Decision-Making Methods
 > Colab Project
-> <img src="./math.png" width="300" height="130" align="right"/>
+> <img src="./math.png" width="200" height="130" align="right"/>
 
 :paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
 
