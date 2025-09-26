@@ -4,7 +4,7 @@
 
 ___
 
-### &#x1F578; Simple Words Trainer
+# &#x1F578; Simple Words Trainer
 > Mobile App
 > <a href="https://vimeo.com/1121125212" target="_blank"><img src="./simple-words-training.png" width="130" height="130" align="right"/></a>
 
@@ -17,7 +17,7 @@ ___
 ![Android](https://img.shields.io/badge/OS-Android-green)
 
 
-### &#x1F578; Travel Trucks
+# &#x1F578; Travel Trucks
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
@@ -29,7 +29,7 @@ ___
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
-### &#x1F578; Your Energy 
+# &#x1F578; Your Energy 
 > Web Application
 > <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
@@ -42,7 +42,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
-### &#x1F578; English Excellent
+# &#x1F578; English Excellent
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
 
@@ -55,7 +55,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
-### :film_projector: Images Gallery 
+# :film_projector: Images Gallery 
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
@@ -66,7 +66,7 @@ ___
 ![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
-### &#x1F578; Web Studio
+# &#x1F578; Web Studio
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
@@ -78,7 +78,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
-### &#x1F578; Contact, Note Management Console Aplication
+# &#x1F578; Contact, Note Management Console Aplication
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
@@ -87,7 +87,7 @@ ___
 
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
-### &#x1F578; Decision-Making Methods
+# &#x1F578; Decision-Making Methods
 > Colab Project
 > <img src="./math.png" width="200" height="130" align="right"/>
 
