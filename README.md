@@ -15,7 +15,7 @@
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
 :paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-red)
@@ -27,8 +27,8 @@
 > Web Application
 > <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
-:paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
+:paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)<br />
 :paperclip: Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-red)
@@ -40,46 +40,46 @@
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)
-:paperclip: Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
+:paperclip: Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)<br />
 :paperclip: Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+![HTML5](https://img.shields.io/badge/Code-HTML5-red)
+![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
 ### :film_projector: Images Gallery 
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)<br />
 :paperclip: Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
+![HTML5](https://img.shields.io/badge/Code-HTML5-red)
+![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 ### &#x1F578; Web Studio
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)<br />
 :paperclip: Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23EFD92B.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg)
+![HTML5](https://img.shields.io/badge/Code-HTML5-red)
+![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
 ### &#x1F578; Contact, Note Management Console Aplication
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)
+:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)<br />
 :paperclip: Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
 
-![Python](https://img.shields.io/badge/python-3670A0)
+![Python](https://img.shields.io/badge/Code-Python-blue)
 
 ### &#x1F578; Decision-Making Methods
 > Colab Project
@@ -87,11 +87,11 @@
 
 :paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
 
-![Python](https://img.shields.io/badge/python-3670A0)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![NumPy](https://img.shields.io/badge/Code-Numpy-blue)
+![Pandas](https://img.shields.io/badge/Code-Pandas-blue)
+![Matplotlib](https://img.shields.io/badge/Code-Matplotlib-white)
+![Google Colab](https://img.shields.io/badge/Tool-Google%20Colab-yellow)
 
 ___
 <div align="center">
