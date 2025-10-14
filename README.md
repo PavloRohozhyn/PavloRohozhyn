@@ -26,6 +26,7 @@ ___
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-red)
 ![CSS3](https://img.shields.io/badge/Code-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Vite](https://img.shields.io/badge/Build-Vite-violet)
 
