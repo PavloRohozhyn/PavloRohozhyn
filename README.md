@@ -13,7 +13,7 @@ ___
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
-![React](https://img.shields.io/badge/Framework-React-blue)
+![React](https://img.shields.io/badge/Framework-ReactNative-blue)
 ![Android](https://img.shields.io/badge/OS-Android-green)
 
 
