@@ -18,8 +18,8 @@
 > Web Application
 > <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
-:paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
+- Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript%20React-blue)
 ![Tool](https://img.shields.io/badge/Build-Vite-blue)
@@ -28,9 +28,9 @@
 > Web Application
 > <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
-:paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)<br />
-:paperclip: Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
+- Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)<br />
+- Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 ![Tool](https://img.shields.io/badge/Build-Vite-blue)
@@ -39,8 +39,8 @@
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)<br />
-:paperclip: Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)<br />
+- Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 
@@ -48,8 +48,8 @@
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)<br />
-:paperclip: Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)<br />
+- Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 ![Tool](https://img.shields.io/badge/Tool-Vite-blue)
@@ -58,8 +58,8 @@
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)<br />
-:paperclip: Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
+- Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)<br />
+- Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
 
 ![Code](https://img.shields.io/badge/Code-Python-blue)
 
@@ -67,7 +67,7 @@
 > Colab Project
 > <img src="./math.png" width="200" height="130" align="right"/>
 
-:paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
+- Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
 
 ![Code](https://img.shields.io/badge/Code-Python%20Numpy%20Pandas%20Matplotlib-blue)
 ![Tool](https://img.shields.io/badge/Tool-Google%20Colab-blue)
