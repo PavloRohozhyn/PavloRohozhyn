@@ -92,5 +92,5 @@
 
 :paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
 
-![Python](https://img.shields.io/badge/Code-Python,%20Numpy,%20Pandas,%20Matplotlib-blue)
+![Python](https://img.shields.io/badge/Code-Python%20Numpy%20Pandas%20Matplotlib-blue)
 ![Google Colab](https://img.shields.io/badge/Tool-Google%20Colab-yellow)
