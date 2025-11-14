@@ -9,10 +9,9 @@
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/MobileApp)<br />
 :paperclip: Live Demo [Simple Words Trainer](https://vimeo.com/1121125212)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
-![React](https://img.shields.io/badge/Framework-ReactNative-blue)
-![Android](https://img.shields.io/badge/OS-Android-green)
+![Code](https://img.shields.io/badge/Code-JavaScript%20TypeScript-blue)
+![Framework](https://img.shields.io/badge/Framework-ReactNative-blue)
+![OS](https://img.shields.io/badge/OS-Android-blue)
 
 
 # &#x1F578; Travel Trucks
@@ -22,11 +21,8 @@
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
 :paperclip: Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-red)
-![CSS3](https://img.shields.io/badge/Code-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![React](https://img.shields.io/badge/Framework-React-blue)
-![Vite](https://img.shields.io/badge/Build-Vite-violet)
+![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript%20React-blue)
+![Tool](https://img.shields.io/badge/Build-Vite-blue)
 
 # &#x1F578; Your Energy 
 > Web Application
@@ -36,23 +32,8 @@
 :paperclip: Team Project [GitHub Repo](https://github.com/uanvi/goit-adv-js-final-project-team-5)<br />
 :paperclip: Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-red)
-![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Vite](https://img.shields.io/badge/Build-Vite-violet)
-
-# &#x1F578; English Excellent
-> Web Application
-> <a href="https://pavlorohozhyn.github.io/goit-markup-hw-final" target="_blank"><img src="./english-excellent.png" width="200" height="130" align="right"/></a>
-
-:paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
-:paperclip: Team Project [GitHub Repo](https://github.com/krav-yurii/english-excellence-v2)<br />
-:paperclip: Live Demo [English Excellent](https://pavlorohozhyn.github.io/goit-markup-hw-final)
-
-![HTML5](https://img.shields.io/badge/Code-HTML5-red)
-![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Vite](https://img.shields.io/badge/Build-Vite-violet)
+![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
+![Tool](https://img.shields.io/badge/Build-Vite-blue)
 
 # :film_projector: Images Gallery 
 > Web Application
@@ -61,9 +42,7 @@
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-js-hw-08)<br />
 :paperclip: Live Demo [Images Gallery](https://pavlorohozhyn.github.io/goit-js-hw-08/)
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-red)
-![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 
 # &#x1F578; Web Studio
 > Web Application
@@ -72,10 +51,8 @@
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-06)<br />
 :paperclip: Live Demo [Web Studio](https://pavlorohozhyn.github.io/goit-markup-hw-06/)
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-red)
-![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Vite](https://img.shields.io/badge/Build-Vite-violet)
+![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
+![Tool](https://img.shields.io/badge/Tool-Vite-blue)
 
 # &#x1F578; Contact, Note Management Console Aplication
 > Console Application
@@ -84,7 +61,7 @@
 :paperclip: Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-pycore-final)<br />
 :paperclip: Team Project [GitHub Repo](https://github.com/MaksVeter/goit-pycore-final-project)
 
-![Python](https://img.shields.io/badge/Code-Python-blue)
+![Code](https://img.shields.io/badge/Code-Python-blue)
 
 # &#x1F578; Decision-Making Methods
 > Colab Project
@@ -92,5 +69,5 @@
 
 :paperclip: Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
 
-![Python](https://img.shields.io/badge/Code-Python%20Numpy%20Pandas%20Matplotlib-blue)
-![Google Colab](https://img.shields.io/badge/Tool-Google%20Colab-yellow)
+![Code](https://img.shields.io/badge/Code-Python%20Numpy%20Pandas%20Matplotlib-blue)
+![Tool](https://img.shields.io/badge/Tool-Google%20Colab-blue)
