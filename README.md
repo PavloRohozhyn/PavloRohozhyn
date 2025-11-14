@@ -13,7 +13,7 @@
 ![OS](https://img.shields.io/badge/OS-Android-blue)
 
 
-## 🌐Travel Trucks
+## 🌐︎Travel Trucks
 <a href="https://travel-trucks-three-wheat.vercel.app" target="_blank"><img src="./travel-tracks.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/TravelTrucks)<br />
@@ -22,7 +22,7 @@
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript%20React-blue)
 ![Tool](https://img.shields.io/badge/Build-Vite-blue)
 
-## 🌐Your Energy 
+## 🌐︎Your Energy 
 <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
 
 - Project [GitHub Repo](https://github.com/PavloRohozhyn/goit-markup-hw-final)<br />
@@ -32,7 +32,7 @@
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 ![Tool](https://img.shields.io/badge/Build-Vite-blue)
 
-## 🌐Images Gallery 
+## 🌐︎Images Gallery 
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-js-hw-08/" target="_blank"><img src="./images-gallery.png"  width="200" height="130" align="right"/></a>
 
@@ -41,7 +41,7 @@
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 
-## 🌐Web Studio
+## 🌐︎Web Studio
 > Web Application
 > <a href="https://pavlorohozhyn.github.io/goit-markup-hw-06" target="_blank"><img src="./web-studio.png" width="200" height="130" align="right"/></a>
 
@@ -51,7 +51,7 @@
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
 ![Tool](https://img.shields.io/badge/Tool-Vite-blue)
 
-## 🌐Contact, Note Management Console Aplication
+## 🌐︎Contact, Note Management Console Aplication
 > Console Application
 > <img src="./contacts-bot.png" width="200" height="130" align="right"/>
 
@@ -60,7 +60,7 @@
 
 ![Code](https://img.shields.io/badge/Code-Python-blue)
 
-## 🌐Decision-Making Methods
+## 🌐︎Decision-Making Methods
 > Colab Project
 > <img src="./math.png" width="200" height="130" align="right"/>
 
