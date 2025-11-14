@@ -20,7 +20,7 @@
 - Live Demo [TravelTrucks](https://travel-trucks-three-wheat.vercel.app)
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript%20React-blue)
-![Tool](https://img.shields.io/badge/Build-Vite-blue)
+![Tool](https://img.shields.io/badge/Tool-Vite-blue)
 
 ## 🌐︎Your Energy 
 <a href="https://uanvi.github.io/goit-adv-js-final-project-team-5/" target="_blank"><img src="./your-energy.png" width="200" height="130" align="right"/></a>
@@ -30,7 +30,7 @@
 - Live Demo [Your Energy](https://uanvi.github.io/goit-adv-js-final-project-team-5/)
 
 ![Code](https://img.shields.io/badge/Code-HTML5%20CSS3%20JavaScript-blue)
-![Tool](https://img.shields.io/badge/Build-Vite-blue)
+![Tool](https://img.shields.io/badge/Tool-Vite-blue)
 
 ## 🌐︎Images Gallery 
 > Web Application
