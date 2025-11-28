@@ -65,6 +65,7 @@
 > <img src="./math.png" width="200" height="130" align="right"/>
 
 - Project [Colab Notebook](https://colab.research.google.com/drive/1oRjUGFpTDzmBxTzJgad1Iu7TQSMJhouu?usp=sharing)
--->
+
 ![Code](https://img.shields.io/badge/Code-Python%20Numpy%20Pandas%20Matplotlib-blue)
 ![Tool](https://img.shields.io/badge/Tool-Google%20Colab-blue)
+-->
